@@ -12,7 +12,6 @@ $ git commit -m "Poem is my hobby"
  3 files changed, 26 insertions(+), 15 deletions(-)
  rewrite oven-bird.txt (99%)
 $ git reset 145299f
-
 $ git checkout HEAD road-not-taken.txt
 $ git checkout HEAD oven-bird.txt
 $ git checkout HEAD fire-and-ice.txt
